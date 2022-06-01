@@ -48,6 +48,29 @@
 ![image](https://user-images.githubusercontent.com/97483147/171333055-6fb2762e-000c-4812-a1e0-c916e424a28c.png)
 ---   
 
+*Leer una fila que coincida con el dato entrante (id)*   
+![image](https://user-images.githubusercontent.com/97483147/171333293-26bc58d5-2bd7-4013-ae5d-cbd07f3df965.png)   
+---
+
+*Insertar nuevos datos a la tabla*   
+![image](https://user-images.githubusercontent.com/97483147/171333470-70289f1d-494c-4459-ac38-2d9b0993933f.png)
+---
+
+*Eliminar una fila que coincida con el dato entrante (id)*  
+![image](https://user-images.githubusercontent.com/97483147/171333591-d394cfc8-3c95-4600-a837-85091f2f7c09.png)   
+---
+
+### Dependencias   
+
+- node v17.8.0  
+- npm v8.10.0  
+- dotenv v16.0.1  
+- pg v8.7.3  
+- express v4.18.1  
+- eslint v8.16.0  
+
+
+
 
 
 
